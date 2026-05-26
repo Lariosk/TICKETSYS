@@ -1,6 +1,6 @@
 # TICKETSYST
 ***
-##DESCRIPCIÓN
+## DESCRIPCIÓN
 CRM para el control de devoluciones y quejas
 ***
 
@@ -14,3 +14,13 @@ Desarrollar un CRM para la empresa X, con la metodología Scrum y las herramient
 - IDE:
 - CVS:
 
+## ARQUITECTURA
+La qrquitectura del proyecto será 
+***
+
+## METODOLOGÍA
+La metodología para el desarrolo de la aplicación será SCRUM, en 4 Sprints
+- [ ] SPRINT 1
+- [ ]  SPRINT 2
+- [ ]  SPRINT 3
+- [ ]  SPRINT 4
