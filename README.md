@@ -15,7 +15,7 @@ Desarrollar un CRM para la empresa X, con la metodología Scrum y las herramient
 - CVS:
 
 ## ARQUITECTURA
-La qrquitectura del proyecto será 
+La Arquitectura del proyecto será 
 ***
 
 ## METODOLOGÍA
